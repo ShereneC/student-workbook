@@ -2,31 +2,31 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```
+```change directory
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```
+```make directory
 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```
+```goes in the head which gives overall info about the page to the web browser
 
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```
+```hyper text markup language
 
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```
+```Cascading Style Sheets
 
 ```
 
@@ -37,36 +37,36 @@
  }
 ```
 <!-- enter you answer in the space below -->
-```
+```property, class, ????
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```
+```Emphasis?
 
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
-```
+```body
 
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
-```
+```ul, ??,??
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
-```
+```???
 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
-```
+```????
 
 ```
