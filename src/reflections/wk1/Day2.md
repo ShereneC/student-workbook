@@ -4,7 +4,7 @@ Today's Reflection: During webpage construction, there are a lot of small detail
 
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use
 
-###
+### There wasn't too much on pseudo classes in the reading.  It just said that some are worth 1 pt and others are worth 10 pts.  It looks like the one we would use most frequently is :hover.
 
 ## What is Specificity and how might you use it to your benefit?
 
@@ -12,6 +12,6 @@ Today's Reflection: During webpage construction, there are a lot of small detail
 
 ## What problems do you think you could run into if you over-utilized the !important feature?
 
-###
+### It seems like there is a better way to style an element than by using the important feature.  You might create classes expecting them to change styles, but due to !important, the classes wouldn't appear to be working.  I would need to see an example of why it would need to be used.
 
 Afternoon Code: https://sherenec.github.io/Jun22Challenge/
