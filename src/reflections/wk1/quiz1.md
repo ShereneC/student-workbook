@@ -37,13 +37,13 @@
  }
 ```
 <!-- enter you answer in the space below -->
-```property, class, ????
+```selector, property, value
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```Emphasis?
+```text-weight
 
 ```
 
@@ -55,18 +55,18 @@
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
-```ul, ??,??
+```ul, li, flex-column
 
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
-```???
+```This gives you the bootstrap flex box options to organize items in a parent in certain ways, ie. justify, align, etc
 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
-```????
+```padding, border, margin
 
 ```
