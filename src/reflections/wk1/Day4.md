@@ -16,4 +16,4 @@ Today's Reflection: Given time, I see the value of a design program such as figm
 
 ### When the stakes are high - absolutely!  It would be important to have wireframes to show to a client you are building a site for.  The wireframes allow you to get feedback and make changes without manipulating code.  You will move forward with an agreed-upon wireframe.  Then the coding begins.
 
-Afternoon Code: waiting on Nik to send me link to code , https://www.figma.com/file/BasDDBx49RHDQKrcZgU3qX/Untitled?node-id=0%3A1
+Afternoon Code: https://nikolasgephart.github.io/wireframe-group-project/ , https://www.figma.com/file/BasDDBx49RHDQKrcZgU3qX/Untitled?node-id=0%3A1
