@@ -1,6 +1,6 @@
-# Uno Dia - 
+# Uno Dia - Intro to JavaScript
 
-Today's Reflection: 
+Today's Reflection: Enjoyed learning about the functionality of javascript and how it can add interactivity to a website.
 
 ## What is Scope ?
 ### Scope is the area of code that objects or variables exist in.  They might be global or inside a function.
