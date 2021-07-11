@@ -1,6 +1,6 @@
 # Dos Dia - JAVASCRIPT FUNCTIONS, OBJECTS, AND LOOPS
 
-Today's Reflection: I understand the concepts.  I am having a hard time 
+Today's Reflection: I understand the concepts.  I am having a hard time putting them into the code and making them work.
 
 ## What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 
