@@ -19,6 +19,6 @@ Displaying api information in a card on the DOM
 
 ## What are some of the primary benefits of Async/Await?
 
-### It makes the code look like it is synchronous even though it is not - which makes degugging easier. 
+### It makes the code look like it is synchronous even though it is not - which makes debugging easier. 
 
 Afternoon Code: https://sherenec.github.io/Pokemon_TwoApi/
