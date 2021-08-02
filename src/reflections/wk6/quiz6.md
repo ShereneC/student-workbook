@@ -3,12 +3,12 @@
 **1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
-
+npm install @vue/cli
 ```
 **2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
 ```
-
+In the readme file for vuePlayground
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
