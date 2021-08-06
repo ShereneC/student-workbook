@@ -28,7 +28,7 @@ Liskov’s Substitution Principle -“parent classes should be easily substitute
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-??? The first component you make?
+HomePage???? or App.Vue?????
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
