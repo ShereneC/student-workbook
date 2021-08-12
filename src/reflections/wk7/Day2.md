@@ -14,6 +14,6 @@ https://github.com/BoiseCodeWorks/late-summer21-allspice-many.git
 
 ## How important is Code documentation and why?
 
-### 
+### It is very important!! It helps you remember why you did certain things - it helps other devs who look at your code in the same way.  It can minimize troubleshooting time and improve code quality!
 
 Afternoon Code: https://github.com/hollidavis/Sprintr.git
