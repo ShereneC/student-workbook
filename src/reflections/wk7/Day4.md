@@ -1,6 +1,6 @@
 # Cuatro Dia Checkpoint
 
-Today's Reflection:
+Today's Reflection: We worked hard today.  However, at every turn we found new problems.  For example when we created tasks, they were only being created on the first backlog on the list.  We had to get help several times.  We are not very close to being done and we only have a couple hours tomorrow to finish.  I am hoping we can get the rest done quickly.  
 
 ## Which principles from this weeks reading did you implement?
 

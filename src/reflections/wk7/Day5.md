@@ -2,4 +2,4 @@
 
 Today's Reflection: 
 
-Checkpoint Code: 
+Checkpoint Code: https://github.com/hollidavis/Sprintr.git
