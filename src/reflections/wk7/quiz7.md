@@ -1,6 +1,5 @@
 # Advanced Front-End Frameworks
 
-
 **1.** Describe the two ways to bind Data in Vue?
 <!-- enter you answer in the space below -->
 ```
