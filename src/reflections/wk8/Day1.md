@@ -1,4 +1,4 @@
-# Uno Dia - 
+# Uno Dia - Checkpoint the BugLog
 
 Today's Reflection: Working on the BugLog today.  Hoping to get it all done and working by tomorrow morning, 9am!!
 
